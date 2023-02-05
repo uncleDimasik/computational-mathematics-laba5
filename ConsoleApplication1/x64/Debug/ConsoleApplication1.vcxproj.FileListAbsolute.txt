@@ -1,0 +1,2 @@
+D:\Project\university-22-23\computational-mathematics\laba5\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\Project\university-22-23\computational-mathematics\laba5\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb
